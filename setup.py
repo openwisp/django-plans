@@ -36,6 +36,7 @@ setup(
         'celery',
         'suds-jurko',
         'django-sequences',
+        'swapper',
         'six',
     ],
     extras_require={
